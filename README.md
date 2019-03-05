@@ -12,7 +12,12 @@ Programa bem simples, não conta com estrutura de testes. É totalmente funciona
 
 # Pré-requisito
 Durante a edição do código é necessário que o sua **IDE** (Interface de criação de códigos) esteja rodando com **privilégios de administrador**. E após o programa ser compilado ele também precisa **ser iniciado** com **privilégios de administrador**.
-Isto é devido aos comandos de rede *NETSH WLAN* precisarem destes privilegios para funcionar
+Isto é devido aos comandos de rede *NETSH WLAN* precisarem destes privilegios para funcionar.
+O aviso retornado se isto não for feito é:
+
+```
+Execute este comando de um prompt de comando com privilégio de administrador.
+```
 
 ## Construido com
 
