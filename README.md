@@ -1,6 +1,6 @@
-# redeAdHoc-Windows-Linguagem-C
+## Repositório.: redeAdHoc-Windows-Linguagem-C
 
-## RedeAdHoc no Windows usando Linguagem C
+# RedeAdHoc no Windows usando Linguagem C
 
 Este projeto tem como objetivo iniciar uma rede Rede Ad Hoc no Windows através de um programa executável escrito em C. Este programa funciona da seguinte maneira, o usuário pressiona alguma tecla previamente configurada. 
 
