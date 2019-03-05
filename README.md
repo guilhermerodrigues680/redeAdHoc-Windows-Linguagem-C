@@ -26,4 +26,5 @@ Execute este comando de um prompt de comando com privilégio de administrador.
 
 ## Autor
 
-* **Guilherme Rodrigues** - *Escritor do programa* - [GuilhermeRodrigues680](https://github.com/guilhermerodrigues680)
+* **Guilherme Rodrigues** - *Escritor do programa* - GitHub: [GuilhermeRodrigues680](https://github.com/guilhermerodrigues680)
+* **Contato** - gfcrodrigues@sga.pucminas.br
