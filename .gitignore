@@ -1,3 +1,9 @@
+# Meus gitignore
+obj/
+*.depend
+*.layout
+*.o
+
 # Prerequisites
 *.d
 
